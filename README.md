@@ -19,21 +19,49 @@
 
 ## ⚡ Tech Stack
 
-### Programming
+### 🧠 AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-blue?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
+
+---
+
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+
+---
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
-### AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-blue?style=for-the-badge)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-orange?style=for-the-badge)
+---
 
-### Tools
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+
+---
+
+### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
-
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 ---
 
 # 🚀 Featured AI Projects
