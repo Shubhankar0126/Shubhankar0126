@@ -78,6 +78,16 @@ AI agent trained using **PPO algorithm** in **OpenAI Gym environments**.
 ### 📊 Data Mining System
 Implemented algorithms for **pattern discovery and knowledge extraction**.
 
+## 📄 Research Publication
+
+**Automated Detection of Counterfeit Indian Currency by Xception CNN and Edge Image Capture with ESP32**
+
+- Authors: Shubhankar Pandey, Meera Singh
+- Journal: Global Journal of Engineering Innovations and Interdisciplinary Research
+- Year: 2026
+
+🔗 https://www.sciencexcel.com/article/automated-detection-of-counterfeit-indian-currency-by-xception-cnn-and-edge-image-capture-with-esp32
+
 ---
 
 # 📊 GitHub Stats
